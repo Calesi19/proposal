@@ -1,3 +1,5 @@
+theme: jekyll-theme-architect
+
 # Hello
 
 This is a test page.
